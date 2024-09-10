@@ -38,7 +38,7 @@ Clear-Host
 
 Write-Host "";
 Write-Host "";
-Write-Host -ForegroundColor Red " viva peru, ucrania y colombia " -NewLine
+Write-Host -ForegroundColor Red " viva peru, ucrania y colombia " 
 Write-Host "";
 Write-Host -ForegroundColor Green " legitmacy0"; -NewLine
 Write-Host -ForegroundColor Green " regsvr32"; -NewLine
