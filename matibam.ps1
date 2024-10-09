@@ -38,10 +38,9 @@ Clear-Host
 
 Write-Host "";
 Write-Host "";
-Write-Host -ForegroundColor Red " viva peru, ucrania y colombia " 
+Write-Host -ForegroundColor Red " viva peru " 
 Write-Host "";
-Write-Host -ForegroundColor Green " legitmacy0"; -NewLine
-Write-Host -ForegroundColor Green " 3221225786"; -NewLine
+Write-Host -ForegroundColor Green " mwthi "; -NewLine
 Write-Host "";
 
 function Test-Admin {;$currentUser = New-Object Security.Principal.WindowsPrincipal $([Security.Principal.WindowsIdentity]::GetCurrent());$currentUser.IsInRole([Security.Principal.WindowsBuiltinRole]::Administrator);}
